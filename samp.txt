@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 40EF-90EE
+
+ Directory of D:\Career\POC\github-client-sample\github-client-sample
+
+05/08/2021  05:35 PM    <DIR>          .
+05/08/2021  05:35 PM    <DIR>          ..
+05/08/2021  05:35 PM                 0 samp.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  451,590,217,728 bytes free
